@@ -33,7 +33,9 @@ We collect certain data about user actions within the app for the purpose of imp
 **Content Generation and Storage:**
 
 a) Content generation through Wishes AI App requires an internet connection. Users must have an active internet connection to access the AI capabilities and generate content.
+
 b) The generated content is created by AI algorithms and may produce unpredictable results. We do not guarantee specific outcomes or accuracy of the generated content.
+
 c) The user acknowledges that some results may not meet their expectations or be satisfactory.
 
 **Disclaimer of Liability:**
